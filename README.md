@@ -16,7 +16,6 @@ I work as a security analyst, focusing on identifying and testing vulnerabilitie
 <div>
     <img src="https://img.shields.io/badge/-C-A8B9CC?&style=for-the-badge&logo=c&logoColor=black" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Assembly-525252?&style=for-the-badge&logo=gnuemacs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -117,3 +116,20 @@ I work as a security analyst, focusing on identifying and testing vulnerabilitie
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+
+## Projects
+
+| Project | Link |
+|--------|------|
+| Script for Ghidra to recover function names in stripped Go ELF files | [GhidraScripts](https://github.com/sposhekhonov/GhidraScripts) |
+| Python implementation of the digital signature protocol GOST R 34.10–2018 (ГОСТ Р 34.10-2018) | [GOST_R_34.10-2018](https://github.com/sposhekhonov/pyGOST_R_34.10-2018) |
+| RSA cryptosystem for encrypting and signing files with representation in ASN1 format. | [pyRSA](https://github.com/sposhekhonov/pyRSA) |
+| Comparison of the effectiveness of post-quantum signature schemes: XMSS vs HORST | [xmss-horst-analyze](https://github.com/sposhekhonov/xmss-horst-analyze) |
+| TCP server and client for checking file's signature | [PyTCPSignatureChecker](https://github.com/sposhekhonov/PyTCPSignatureChecker) |
+| Telegram bot using Python + PostgreSQL for extracting emails, phone numbers from text, to get metrics from Linux VM with docker and ansible | [DevOpsBot](https://github.com/sposhekhonov/DevOpsBot_PT_START) |
+| Distributed data collection system using WinSock and I/O Completion ports | [Distirbuted-Data-Collection-System](https://github.com/sposhekhonov/Distirbuted-Data-Collection-System) |
+| VIM-like text editor using MVC pattern written in C++  | [TextEditor](https://github.com/sposhekhonov/TextEditor) |
+| A server application and a client application running on Windows 7–11. The server allows local and remote clients to access files in its filesystem. It is a stateful server. The client is impersonated while servicing requests. Using RPC. | [RPCClientServer](https://github.com/sposhekhonov/RPCClientServer) |
+| Five tasks solution on Pintos (Stanford University): alarm-timer, scheduler, narrow-bridge, cmdline, syscalls. | [pintos](https://github.com/sposhekhonov/pintos) |
+| Linear Congruential Generator (LCG) in C.  | [Linear-congruential-generator](https://github.com/sposhekhonov/Linear-congruential-generator) |
+
